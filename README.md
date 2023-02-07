@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Gabriel+Gonzales;I'm+25+years+old;I+from+Brasil,+PR;I+study+Full+Stack+Development+at+Kenzie+Academy;Be+Welcome!+:%29)](https://git.io/typing-svg)
+Olá! Eu sou o Gabriel Gonzales 🖐️
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielGonzalesKZ&show_icons=true&theme=dracula&count_private=true)
 
@@ -21,9 +21,6 @@
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 
-  
-### Studying in this moment:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
